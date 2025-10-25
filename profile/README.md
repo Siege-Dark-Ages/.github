@@ -1,5 +1,5 @@
 ## Siege: The Dark ages
-#Info
+# Info
 Siege is a nodes server managed by 5 developers and 5 managers/owner
 we try and bring you, the player the best we can
 
